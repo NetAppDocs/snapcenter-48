@@ -87,7 +87,7 @@ To enter the command to create a Snapshot copy
 a|
 Select *Other*, and then enter the command to create a Snapshot copy.
 |===
-image:../media/application_settings.gif[]
+image:../media/application_settings.gif[application settings]
 . In the Policies page, perform the following steps:
  .. Select one or more policies from the drop-down list.
 +
