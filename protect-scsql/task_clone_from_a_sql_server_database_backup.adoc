@@ -46,7 +46,7 @@ NOTE: Cloning of a backup of an instance is not supported.
 
 . Select the database or resource group.
 . From the Manage Copies view page, select the backup either from primary or secondary (mirrored or vaulted) storage system.
-. Select the backup, and then click *image:../media/clone_icon.gif[]*.
+. Select the backup, and then click *image:../media/clone_icon.gif[clone icon]*.
 . In the Clone Options page, perform the following actions:
 +
 |===
