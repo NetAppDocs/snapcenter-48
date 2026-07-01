@@ -71,7 +71,7 @@ entries:
         url: /protect-sco/task_create_backup_policies_for_oracle_database.html
 
       - title: Create resource groups
-        url: /protect-sco/task_create_resource_groups_and_attach_policies_for_oracle_databases.html
+        url: /protect-sco/task_create_resource_groups_and_attaching_policies_for_oracle_databases.html
 
       - title: Back up Oracle resources
         url: /protect-sco/task_back_up_oracle_resources.html
